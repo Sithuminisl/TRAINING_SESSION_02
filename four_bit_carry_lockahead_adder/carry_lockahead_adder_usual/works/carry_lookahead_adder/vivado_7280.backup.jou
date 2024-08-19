@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Aug 13 10:33:49 2024
+# Process ID: 7280
+# Current directory: C:/INTERNSHIP_2/TRAINING/four_bit_carry_lockahead_adder/carry_lockahead_adder_usual/works/carry_lookahead_adder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13768 C:\INTERNSHIP_2\TRAINING\four_bit_carry_lockahead_adder\carry_lockahead_adder_usual\works\carry_lookahead_adder\carry_lookahead_adder.xpr
+# Log file: C:/INTERNSHIP_2/TRAINING/four_bit_carry_lockahead_adder/carry_lockahead_adder_usual/works/carry_lookahead_adder/vivado.log
+# Journal file: C:/INTERNSHIP_2/TRAINING/four_bit_carry_lockahead_adder/carry_lockahead_adder_usual/works/carry_lookahead_adder\vivado.jou
+# Running On: Sithu-laptop, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 12, Host memory: 7866 MB
+#-----------------------------------------------------------
+start_gui
+open_project -part xc7k70tfbv676-1 C:/INTERNSHIP_2/TRAINING/four_bit_carry_lockahead_adder/carry_lockahead_adder_usual/works/carry_lookahead_adder/carry_lookahead_adder.xpr
+upgrade_project -migrate_output_products
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/INTERNSHIP_2/TRAINING/four_bit_carry_lockahead_adder/carry_lockahead_adder_usual/works/carry_lookahead_adder/tb_carrylookahaead_adder_behav.wcfg
+source tb_carrylookahaead_adder.tcl
+save_wave_config {C:/INTERNSHIP_2/TRAINING/four_bit_carry_lockahead_adder/carry_lockahead_adder_usual/works/carry_lookahead_adder/tb_carrylookahaead_adder_behav.wcfg}
+close_sim

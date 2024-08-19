@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Error:  Test Failed! 
+Time: 10 ns  Iteration: 0  Process: /tb_fourbit_adder/stim_proc  File: C:/INTERNSHIP_2/TRAINING/four_bit_simple_adder/FOUR_BIT_ADDER_SELF_TSET_TB/work1/fourbit_adder_self/fourbit_adder_self.srcs/sim_1/new/tb_fourbit_adder1.vhd
+Note:  Test Passed! 
+Time: 30 ns  Iteration: 0  Process: /tb_fourbit_adder/stim_proc  File: C:/INTERNSHIP_2/TRAINING/four_bit_simple_adder/FOUR_BIT_ADDER_SELF_TSET_TB/work1/fourbit_adder_self/fourbit_adder_self.srcs/sim_1/new/tb_fourbit_adder1.vhd
+Note:  Test Passed! 
+Time: 50 ns  Iteration: 0  Process: /tb_fourbit_adder/stim_proc  File: C:/INTERNSHIP_2/TRAINING/four_bit_simple_adder/FOUR_BIT_ADDER_SELF_TSET_TB/work1/fourbit_adder_self/fourbit_adder_self.srcs/sim_1/new/tb_fourbit_adder1.vhd

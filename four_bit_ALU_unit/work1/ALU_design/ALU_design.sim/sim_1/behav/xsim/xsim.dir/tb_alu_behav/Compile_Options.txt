@@ -1,0 +1,1 @@
+-wto "5b817480c8044901a364508a1c208f35" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_alu_behav" "xil_defaultlib.tb_alu" -log "elaborate.log" 

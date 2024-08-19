@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Aug 15 06:40:27 2024
+# Process ID: 4492
+# Current directory: C:/INTERNSHIP_2/TRAINING/four_bit_divider/work1/binary_division/binary_division.runs/impl_1
+# Command line: vivado.exe -log BinaryDivision.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source BinaryDivision.tcl -notrace
+# Log file: C:/INTERNSHIP_2/TRAINING/four_bit_divider/work1/binary_division/binary_division.runs/impl_1/BinaryDivision.vdi
+# Journal file: C:/INTERNSHIP_2/TRAINING/four_bit_divider/work1/binary_division/binary_division.runs/impl_1\vivado.jou
+# Running On: Sithu-laptop, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 12, Host memory: 7866 MB
+#-----------------------------------------------------------
+source BinaryDivision.tcl -notrace

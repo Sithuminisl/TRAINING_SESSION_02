@@ -1,0 +1,1 @@
+-wto "79175f3e2b994b1aa4dd67b70de9c261" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_fourbit_substractor_behav" "xil_defaultlib.tb_fourbit_substractor" -log "elaborate.log" 

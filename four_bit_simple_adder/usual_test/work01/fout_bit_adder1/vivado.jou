@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue Aug 13 17:50:39 2024
+# Process ID: 4864
+# Current directory: C:/INTERNSHIP_2/TRAINING/four_bit_simple_adder/usual_test/work01/fout_bit_adder1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8884 C:\INTERNSHIP_2\TRAINING\four_bit_simple_adder\usual_test\work01\fout_bit_adder1\fout_bit_adder1.xpr
+# Log file: C:/INTERNSHIP_2/TRAINING/four_bit_simple_adder/usual_test/work01/fout_bit_adder1/vivado.log
+# Journal file: C:/INTERNSHIP_2/TRAINING/four_bit_simple_adder/usual_test/work01/fout_bit_adder1\vivado.jou
+#-----------------------------------------------------------
+ststart_guopen_project C:/INTERNSHIP_2/TRAINING/four_bit_simple_adder/usual_test/work01/fout_bit_adder1/fout_bit_adder1.xpr
+r
+update_compile_order -fileset sources_1

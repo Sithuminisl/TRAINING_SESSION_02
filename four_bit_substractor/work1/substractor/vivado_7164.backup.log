@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue Aug 13 17:42:10 2024
+# Process ID: 7164
+# Current directory: C:/INTERNSHIP_2/TRAINING/four_bit_substractor/work1/substractor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7492 C:\INTERNSHIP_2\TRAINING\four_bit_substractor\work1\substractor\substractor.xpr
+# Log file: C:/INTERNSHIP_2/TRAINING/four_bit_substractor/work1/substractor/vivado.log
+# Journal file: C:/INTERNSHIP_2/TRAINING/four_bit_substractor/work1/substractor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/INTERNSHIP_2/TRAINING/four_bit_substractor/work1/substractor/substractor.xpr
+Scanning sources...
+Finished scanning sources
+CRITICAL WARNING: [Project 1-505] Unrecognized Option Name MEMEnableMemoryMapGeneration
+WARNING: [Project 1-231] Project 'substractor.xpr' was created with a future version and may or may not perform reliably with this version of Vivado. It has been opened in read-only mode for the protection of unrecognized data. Use 'File | Save Project As...' if you wish to alter a copy of the project.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/vivado2018/Vivado/2018.1/data/ip'.
+open_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:10 . Memory (MB): peak = 888.016 ; gain = 149.516
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Aug 13 17:45:37 2024...
